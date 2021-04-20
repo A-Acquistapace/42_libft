@@ -1,5 +1,5 @@
 # 42_libft
-Projet de constitution du librairie de fonctions usuelles pour l'école 42
+Projet de constitution du librairie de fonctions usuelles pour l'école 42.
 
 
 ##### Licence ouverte 
